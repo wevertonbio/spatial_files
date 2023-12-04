@@ -1,2 +1,2 @@
 # spatial_files
-Repositiry with spatial files
+Repositiry to store spatial files
